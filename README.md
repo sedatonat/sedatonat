@@ -1,5 +1,5 @@
 # 💫 About Me:
-It is good to be here with you.<br>After 20+ years of Construction Industry experience, I decided to be an IOS Developer.<br>This journey will be challenging, which I am ready for.<br>Currently, I am learning SwiftUI.<br>My short-term goal is to publish my first app by May 2023. And the second one until the end of October 2023.<br>Thereafter I will be looking forward to collaborating with big projects.
+It is good to be here with you.<br>After 20+ years of Construction Industry experience, on  September 2022 I decided to be an IOS Developer.<br>This journey will be challenging, which I am ready for.<br>Currently, I am learning SwiftUI.<br>My short-term goal is to publish my first app by May 2023. And the second one until the end of October 2023.<br>Thereafter I will be looking forward to collaborating with big projects.
 
 
 ## 🌐 Socials:
