@@ -1,5 +1,5 @@
 # 💫 About Me:
-It is good to be here with you.<br> After 25+ years of Construction Industry experience, I decided to learn Swıft Language.<br> This journey will be challenging, which I am ready for.<br> Currently, I am learning Swift Language.<br>My short-term goal is to publish my first app by the end of 2025.<br> Thereafter I will be looking forward to collaborating with big projects.
+It is good to be here with you.<br> After 25+ years of Construction Industry experience, I decided to learn Swıft Language. <br>This journey will be challenging, which I am ready for.<br> Currently, I am learning Swift Language.<br>My short-term goal is to publish my first app by the end of 2025.<br> Thereafter I will be looking forward to collaborating with big projects.
 
 
 ## 🌐 Socials:
