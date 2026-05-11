@@ -4,10 +4,10 @@
 
 After 25+ years leading procurement, logistics and ERP implementations across major construction projects, I'm turning domain knowledge into code — building iOS apps in Swift where supply chain and software meet.
 
-- 🏗️ **Day job:** Purchasing Manager · ERP consultant at SeVe Danışmanlık Ltd.
-- 📱 **Side craft:** Building iOS apps with Swift / SwiftUI
+- 🏗️ **Day Job:** Purchasing Manager
+- 📱 **Side craft:** Building Apps with AI & Writing Books
 - 📖 **Author of** *How to Purchase ERP?*
-- ✍️ **Writing weekly** at [SedatOnat.com](https://www.sedatonat.com)
+- ✍️ **Writing weekly** at __[SedatOnat.com](https://www.sedatonat.com/)__ & TedarikZinciriPortali.com
 - 📍 Moscow, Russia
 
 ## 🎯 2026 goals
@@ -23,17 +23,6 @@ After 25+ years leading procurement, logistics and ERP implementations across ma
 **Designing:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 **Creating:** ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-## ✍️ Latest from [SedatOnat.com](https://www.sedatonat.com)
-<!-- BLOG-POST-LIST:START -->
-- [Tedarik Zinciri Raporu: 2025 #10/52 &lpar;03.03 ... 09.03&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h10)
-- [Tedarik Zinciri Raporu: 2025 #9/52 &lpar;24.02 ... 02.03&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h09)
-- [Tedarik Zinciri Raporu: 2025 #8/52 &lpar;17.02 ... 23.02&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h08)
-- [Tedarik Zinciri Raporu: 2025 #7/52 &lpar;10.02 ... 16.02&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h07)
-- [Tedarik Zinciri Raporu: 2025 #6/52 &lpar;03.02 ... 09.02&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h06)
-<!-- BLOG-POST-LIST:END -->
-
-[→ Read more on the blog](https://www.sedatonat.com/blog)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sedatonat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
