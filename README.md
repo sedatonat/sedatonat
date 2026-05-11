@@ -26,6 +26,11 @@ After 25+ years leading procurement, logistics and ERP implementations across ma
 
 ## ✍️ Latest from [SedatOnat.com](https://www.sedatonat.com)
 <!-- BLOG-POST-LIST:START -->
+- [Tedarik Zinciri Raporu: 2025 #10/52 &lpar;03.03 ... 09.03&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h10)
+- [Tedarik Zinciri Raporu: 2025 #9/52 &lpar;24.02 ... 02.03&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h09)
+- [Tedarik Zinciri Raporu: 2025 #8/52 &lpar;17.02 ... 23.02&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h08)
+- [Tedarik Zinciri Raporu: 2025 #7/52 &lpar;10.02 ... 16.02&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h07)
+- [Tedarik Zinciri Raporu: 2025 #6/52 &lpar;03.02 ... 09.02&rpar;](https://www.sedatonat.com/tr/post/tedarik-zinciri-raporu-2025-h06)
 <!-- BLOG-POST-LIST:END -->
 
 [→ Read more on the blog](https://www.sedatonat.com/blog)
