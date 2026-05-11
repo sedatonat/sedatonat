@@ -1,11 +1,11 @@
 # Hi, I'm Sedat 👋
 
-**Procurement & Supply Chain veteran building iOS apps on the side.**
+**Procurement & Supply Chain veteran building apps with AI.**
 
-After 25+ years leading procurement, logistics and ERP implementations across major construction projects, I'm turning domain knowledge into code — building iOS apps in Swift where supply chain and software meet.
+After 25+ years leading procurement, logistics and ERP implementations across major construction projects, I'm turning domain knowledge into software — shipping apps with AI tools where supply chain meets code.
 
 - 🏗️ **Day Job:** Purchasing Manager
-- 📱 **Side craft:** Building Apps with AI & Writing Books
+- 🤖 **Side craft:** Building Apps with AI & Writing Books
 - 📖 **Author of** *How to Purchase ERP?*
 - ✍️ **Writing weekly** at __[SedatOnat.com](https://www.sedatonat.com/)__ & TedarikZinciriPortali.com
 - 📍 Moscow, Russia
@@ -18,7 +18,7 @@ After 25+ years leading procurement, logistics and ERP implementations across ma
 
 ## 💻 Stack
 
-**Building:** ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+**Building with AI:** ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 **Designing:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
