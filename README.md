@@ -25,9 +25,7 @@ After 25+ years leading procurement, logistics and ERP implementations across ma
 **Creating:** ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sedatonat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sedatonat&theme=dark&hide_border=false&starting_year=2020)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sedatonat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=sedatonat&theme=dark&hide_border=false&starting_year=2020)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sedatonat&icon=2&color=9)](https://visitcount.itsvg.in)
